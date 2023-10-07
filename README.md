@@ -37,3 +37,5 @@ Since April 2018, I began my journey as a moderator on communication platforms l
 My journey in the programming world began at the start of my university career when I had to delve into languages like C/C++ and Python with no prior knowledge in this field. This initial challenge sparked my interest in programming, leading me to explore online resources and learn these languages self-taught. Over time, my curiosity led me to research NodeJS for creating Discord bots, an experience that further expanded my programming skills.
 
 Currently, I am committed to expanding my knowledge in Python, NodeJS, and HTML/CSS. I am constantly seeking new opportunities to apply my skills and continue learning in the exciting field of programming.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XtoMHA96&layout=compact)
