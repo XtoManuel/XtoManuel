@@ -1,8 +1,10 @@
+<!---<div align="right"><a href="https://www.twitch.tv/xtomanuel"><img src="https://cdn2.iconfinder.com/data/icons/custom-ios-14-1/60/Translate-512.png?size=50" alt="" style="vertical-align:middle" height="50"></a></div>--->
+
 # Links
 
-___
+<div><a href="https://www.twitch.tv/xtomanuel"><img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Twitch-512.png?size=50" alt="" style="vertical-align:middle" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@XtoManuel_"><img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Youtube-512.png?size=50" alt="" style="vertical-align:middle" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/XtoManuel_"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png?size=50" alt="" style="vertical-align:middle" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/xtomanuel"><img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Instagram-512.png?size=50" alt="" style="vertical-align:middle" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://facebook.com/XtoManuel"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png?size=50" alt="" style="vertical-align:middle" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@xtomanuel"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png?size=50" alt="" style="vertical-align:middle" height="50"></a></div>
 
-## :us: English
+___
 
 <h3 align="center">I'm XtoManuel, passionate about video games, programming, and online community management. Here, you'll find details about me.</h3>
 
@@ -35,39 +37,3 @@ Since April 2018, I began my journey as a moderator on communication platforms l
 My journey in the programming world began at the start of my university career when I had to delve into languages like C/C++ and Python with no prior knowledge in this field. This initial challenge sparked my interest in programming, leading me to explore online resources and learn these languages self-taught. Over time, my curiosity led me to research NodeJS for creating Discord bots, an experience that further expanded my programming skills.
 
 Currently, I am committed to expanding my knowledge in Python, NodeJS, and HTML/CSS. I am constantly seeking new opportunities to apply my skills and continue learning in the exciting field of programming.
-
-___
-
-## :es: Enpañol
-
-<h3 align="center">Soy XtoManuel, un apasionado de los videojuegos, la programación y la gestión de comunidades en línea. Aquí, encontrarás detalles sobre mí.</h3>
-
-### :briefcase: Experiencia laboral
-
-#### :joystick: Eventos Gaming
-
-Mi experiencia laboral incluye la gestión de inventario y la coordinación logística para eventos, lo que implica tanto el montaje como el desmontaje de espacios. Además, he desempeñado el rol de monitor de actividades durante estos eventos, donde he tenido la responsabilidad de asesorar, aconsejar, supervisar, motivar y garantizar la seguridad y el disfrute de los participantes durante las actividades.
-
-#### :office: Empresario
-
-A partir de septiembre de 2022, fundé mi propia empresa, la cual representa la continuación de una tradición empresarial familiar de generaciones anteriores. En mi rol como administrador único y autónomo societario, asumo la responsabilidad completa de la gestión y operación del negocio. Mi formación académica actual como estudiante de la carrera de Matemáticas ha sido un activo valioso para la empresa, ya que me permite aplicar mis conocimientos en áreas como estadísticas y contabilidad. Esto se traduce en una gestión financiera más precisa y estratégica, así como en la capacidad de analizar datos de manera efectiva para tomar decisiones fundamentadas. Estoy comprometido en utilizar mis habilidades y conocimientos para impulsar el crecimiento y el éxito continuo de la empresa.
-
-### :school: Estudios
-
-Tengo una formación académica en Ciencias y Tecnología, habiendo completado mi Bachillerato en esta área. En la actualidad, me encuentro cursando la carrera universitaria de Matemáticas, lo que me brinda un sólido conocimiento en matemáticas. Mi formación académica también me ha enseñado habilidades en programación y computación.
-
-### :game_die: Hobies
-
-#### :video_game: Videojuegos
-
-Tengo una gran pasión por los videojuegos, especialmente aquellos que ofrecen experiencias multijugador. Cuando juego en solitario, me sumerjo en juegos con historias lineales cautivadoras. Mi amor por los videojuegos me ha llevado a participar activamente en eventos de la comunidad de gaming. Actualmente, soy miembro del equipo de esports **[Guardians E.C.](https://discord.gg/e5c4CfWwdY 'Link al Discord')**, donde desempeño el rol de Comunity Manager. En esta posición, colaboro con el equipo en la asistencia a eventos, realizo anuncios y promociones en redes sociales y contribuyo a crear una experiencia positiva para nuestros miembros y seguidores.
-
-#### :speech_balloon: Discord
-
-Desde abril de 2018, comencé mi trayectoria como moderador en plataformas de comunicación como Discord. A lo largo del tiempo y con la experiencia acumulada, he avanzado de roles de moderación a posiciones de administración en servidores, especialmente en servidores de streamers muy conocidos. En la actualidad, tengo el honor de desempeñar roles de moderación y administración en los servidores de **[Willyrex](https://discord.gg/willyrex 'Link al Discord')** y **[elyas360](https://discord.gg/elyas360 'Link al Discord')**. Además, contribuyo activamente en la administración del servidor de mi equipo de esports y brindo apoyo en la gestión de servidores pertenecientes a amigos cercanos. Esta experiencia me ha permitido desarrollar habilidades sólidas en la gestión de comunidades en línea y garantizar un ambiente acogedor y seguro para los usuarios.
-
-### :desktop_computer: Programación
-
-Mi camino en el mundo de la programación comenzó durante el inicio de mi carrera universitaria, cuando tuve que adentrarme en lenguajes como C/C++ y Python sin previos conocimientos en este campo. Este desafío inicial despertó mi interés por la programación, llevándome a explorar recursos en línea y aprender de manera autodidacta sobre estos lenguajes. Con el tiempo, mi curiosidad me llevó a investigar sobre NodeJS para la creación de bots en Discord, una experiencia que amplió aún más mis habilidades en programación.
-
-En la actualidad, estoy comprometido en expandir mis conocimientos en Python, NodeJS y HTML/CSS. Estoy constantemente buscando nuevas oportunidades para aplicar mis habilidades y continuar aprendiendo en el emocionante mundo de la programación.
