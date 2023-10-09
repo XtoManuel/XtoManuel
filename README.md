@@ -4,31 +4,31 @@
 
 <div align="center">
 <a href="https://www.twitch.tv/xtomanuel">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Twitch-512.png?size=50" alt="" style="vertical-align:middle" height="50">
+<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Twitch-512.png?size=50" alt="Twitch" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@XtoManuel_">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Youtube-512.png?size=50" alt="" style="vertical-align:middle" height="50">
+<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Youtube-512.png?size=50" alt="YouTube" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/XtoManuel_">
-<img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png?size=50" alt="" style="vertical-align:middle" height="50">
+<img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png?size=50" alt="X" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/xtomanuel">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Instagram-512.png?size=50" alt="" style="vertical-align:middle" height="50">
+<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Instagram-512.png?size=50" alt="Instagram" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/XtoManuel">
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png?size=50" alt="" style="vertical-align:middle" height="50">
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png?size=50" alt="Facebook" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@xtomanuel">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png?size=50" alt="" style="vertical-align:middle" height="50">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png?size=50" alt="TikTok" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/331748715050172417">
-<img src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png?size=50" alt="" style="vertical-align:middle" height="50">
+<img src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png?size=50" alt="Discord" style="vertical-align:middle" height="50">
 </a>
 </div>
 
