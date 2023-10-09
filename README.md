@@ -1,6 +1,6 @@
 <!---<div align="right"><a href="https://www.twitch.tv/xtomanuel"><img src="https://cdn2.iconfinder.com/data/icons/custom-ios-14-1/60/Translate-512.png?size=50" alt="" style="vertical-align:middle" height="50"></a></div>--->
 
-# Links
+# :link: Links
 
 <div align="center">
 <a href="https://www.twitch.tv/xtomanuel">
