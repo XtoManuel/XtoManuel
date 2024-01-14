@@ -15,6 +15,14 @@
 <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png?size=50" alt="X" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://bsky.app/profile/xtomanuel.bsky.social">
+<img src="https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-1/256/butterfly-fill-256.png?size=50" alt="Bluesky" style="vertical-align:middle" height="50">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.threads.net/@xtomanuel">
+<img src="https://cdn4.iconfinder.com/data/icons/threads-by-instagram/128/threads-logo-brand-sign-contained-glyph-squircle-256.png?size=50" alt="Threads" style="vertical-align:middle" height="50">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/xtomanuel">
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Instagram-512.png?size=50" alt="Instagram" style="vertical-align:middle" height="50">
 </a>
