@@ -11,7 +11,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Youtube-512.png?size=50" alt="YouTube" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/XtoManuel_">
+<a href="https://www.x.com/XtoManuel_">
 <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png?size=50" alt="X" style="vertical-align:middle" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
