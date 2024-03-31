@@ -75,7 +75,7 @@ My journey in the programming world began at the start of my university career w
 Currently, I am committed to expanding my knowledge in Python, NodeJS, and HTML/CSS. I am constantly seeking new opportunities to apply my skills and continue learning in the exciting field of programming.
 
 <div align="center">
-<img alt="XtoMHA96's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XtoMHA96&layout=compact&theme=transparent">
+<img alt="XtoMHA96's top languages" src="https://github-readme-stats-xtomha96-projects.vercel.app/api/top-langs/?username=XtoMHA96&layout=compact&theme=transparent">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="XtoMHA96's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=XtoMHA96&show_icons=true&theme=transparent">
+<img alt="XtoMHA96's GitHub stats" src="https://github-readme-stats-xtomha96-projects.vercel.app/api?username=XtoMHA96&show_icons=true&theme=transparent">
 </div>
