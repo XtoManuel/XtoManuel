@@ -26,7 +26,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/XtoManuel">
-<img src="https://img.shields.io/badge/Facebook-@Xtomanuel-blue?style=for-the-badge&logo=facebook" alt="facebook" style="vertical-align:middle">
+<img src="https://img.shields.io/badge/Facebook-@XtoManuel-blue?style=for-the-badge&logo=facebook" alt="facebook" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@xtomanuel">
