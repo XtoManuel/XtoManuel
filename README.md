@@ -4,39 +4,39 @@
 
 <div align="center">
 <a href="https://www.twitch.tv/xtomanuel">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Twitch-512.png?size=50" alt="Twitch" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/Twitch-xtomanuel-blueviolet?style=for-the-badge&logo=twitch" alt="twitch" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@XtoManuel_">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Youtube-512.png?size=50" alt="YouTube" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/YouTube-@XtoManuel__-red?style=for-the-badge&logo=youtube" alt="youtube" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.x.com/XtoManuel_">
-<img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png?size=50" alt="X" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/X-@XtoManuel__-black?style=for-the-badge&logo=x" alt="x" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/xtomanuel.bsky.social">
-<img src="https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-1/256/butterfly-fill-256.png?size=50" alt="Bluesky" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/BlueSky-@xtomanuel.bsky.social-blue?style=for-the-badge&logo=bluesky" alt="bluesky" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.threads.net/@xtomanuel">
-<img src="https://cdn4.iconfinder.com/data/icons/threads-by-instagram/128/threads-logo-brand-sign-contained-glyph-squircle-256.png?size=50" alt="Threads" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/Threads-@xtomanuel-black?style=for-the-badge&logo=threads" alt="threads" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/xtomanuel">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Instagram-512.png?size=50" alt="Instagram" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/Instagram-@xtomanuel-brown?style=for-the-badge&logo=instagram" alt="instagram" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/XtoManuel">
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png?size=50" alt="Facebook" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/Facebook-@Xtomanuel-blue?style=for-the-badge&logo=facebook" alt="facebook" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@xtomanuel">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png?size=50" alt="TikTok" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/TikTok-@xtomanuel-black?style=for-the-badge&logo=tiktok" alt="tiktok" style="vertical-align:middle">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/331748715050172417">
-<img src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png?size=50" alt="Discord" style="vertical-align:middle" height="50">
+<img src="https://img.shields.io/badge/Discord-xtomha96-mediumslateblue?style=for-the-badge&logo=discord" alt="discord" style="vertical-align:middle">
 </a>
 </div>
 
