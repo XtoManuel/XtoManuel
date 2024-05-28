@@ -1,41 +1,17 @@
 # :link: Links
 
 <div align="center">
-<a href="https://www.twitch.tv/xtomanuel">
-<img src="https://img.shields.io/badge/Twitch-xtomanuel-blueviolet?style=for-the-badge&logo=twitch" alt="twitch" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@XtoManuel_">
-<img src="https://img.shields.io/badge/YouTube-@XtoManuel__-red?style=for-the-badge&logo=youtube" alt="youtube" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.x.com/XtoManuel_">
-<img src="https://img.shields.io/badge/X-@XtoManuel__-black?style=for-the-badge&logo=x" alt="x" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://bsky.app/profile/xtomanuel.bsky.social">
-<img src="https://img.shields.io/badge/BlueSky-@xtomanuel.bsky.social-blue?style=for-the-badge&logo=bluesky" alt="bluesky" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.threads.net/@xtomanuel">
-<img src="https://img.shields.io/badge/Threads-@xtomanuel-black?style=for-the-badge&logo=threads" alt="threads" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/xtomanuel">
-<img src="https://img.shields.io/badge/Instagram-@xtomanuel-brown?style=for-the-badge&logo=instagram" alt="instagram" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/XtoManuel">
-<img src="https://img.shields.io/badge/Facebook-@XtoManuel-blue?style=for-the-badge&logo=facebook" alt="facebook" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@xtomanuel">
-<img src="https://img.shields.io/badge/TikTok-@xtomanuel-black?style=for-the-badge&logo=tiktok" alt="tiktok" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/331748715050172417">
-<img src="https://img.shields.io/badge/Discord-xtomha96-mediumslateblue?style=for-the-badge&logo=discord" alt="discord" style="vertical-align:middle">
-</a>
+
+[![twitch](https://img.shields.io/badge/Twitch-xtomanuel-blueviolet?style=for-the-badge&logo=twitch)](https://www.twitch.tv/xtomanuel)
+[![youtube](https://img.shields.io/badge/YouTube-@XtoManuel__-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@XtoManuel_)
+[![x](https://img.shields.io/badge/X-@XtoManuel__-black?style=for-the-badge&logo=x)](https://www.x.com/XtoManuel_)
+[![bluesky](https://img.shields.io/badge/BlueSky-@xtomanuel.bsky.social-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/xtomanuel.bsky.social)
+[![threads](https://img.shields.io/badge/Threads-@xtomanuel-black?style=for-the-badge&logo=threads)](https://www.threads.net/@xtomanuel)
+[![instagram](https://img.shields.io/badge/Instagram-@xtomanuel-brown?style=for-the-badge&logo=instagram)](https://instagram.com/xtomanuel)
+[![facebook](https://img.shields.io/badge/Facebook-@XtoManuel-blue?style=for-the-badge&logo=facebook)](https://facebook.com/XtoManuel)
+[![tiktok](https://img.shields.io/badge/TikTok-@xtomanuel-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@xtomanuel)
+[![discord](https://img.shields.io/badge/Discord-xtomha96-mediumslateblue?style=for-the-badge&logo=discord)](https://discord.com/users/331748715050172417)
+
 </div>
 
 ___
