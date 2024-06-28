@@ -10,7 +10,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-@xtomanuel-brown?style=for-the-badge&logo=instagram)](https://instagram.com/xtomanuel)
 [![facebook](https://img.shields.io/badge/Facebook-@XtoManuel-blue?style=for-the-badge&logo=facebook)](https://facebook.com/XtoManuel)
 [![tiktok](https://img.shields.io/badge/TikTok-@xtomanuel-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@xtomanuel)
-[![discord](https://img.shields.io/badge/Discord-xtomha96-mediumslateblue?style=for-the-badge&logo=discord)](https://discord.com/users/331748715050172417)
+[![discord](https://img.shields.io/badge/Discord-xtomanuel-mediumslateblue?style=for-the-badge&logo=discord)](https://discord.com/users/331748715050172417)
 
 </div>
 
