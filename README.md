@@ -36,7 +36,7 @@ I have an academic background in Science and Technology, having completed my hig
 
 #### :video_game: Video Games
 
-I have a deep passion for video games, especially those that offer multiplayer experiences. When I play solo, I immerse myself in captivating linear story games. My love for video games has led me to actively participate in gaming community events. Currently, I am a member of the esports team **[Guardians E.C.](https://discord.gg/e5c4CfWwdY 'Discord Link')**, where I serve as a Community Manager. In this role, I collaborate with the team in event assistance, make announcements and promotions on social media, and contribute to creating a positive experience for our members and followers.
+I have a deep passion for video games, especially those that offer multiplayer experiences. When I play solo, I immerse myself in captivating linear story games. My love for video games has led me to actively participate in gaming community events. Currently, I am a member of the esports team **[Guardians E.C.](https://discord.gg/e5c4CfWwdY 'Discord Link')**, where I have been serving as the Community Manager. Starting in the 2024 season, which begins in September, I will be taking on the additional role of Team Manager. In these roles, I collaborate with the team in event assistance, make announcements and promotions on social media, and contribute to creating a positive experience for our members and followers.
 
 #### :speech_balloon: Discord
 
