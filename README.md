@@ -49,7 +49,7 @@ My journey in the programming world began at the start of my university career w
 Currently, I am committed to expanding my knowledge in Python, NodeJS, and HTML/CSS. I am constantly seeking new opportunities to apply my skills and continue learning in the exciting field of programming.
 
 <div align="center">
-<img alt="XtoManuel's top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=XtoManuel&layout=compact&theme=transparent"> 
+<img alt="XtoManuel's top languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=XtoManuel&layout=compact&langs_count=10&theme=dark_github"> 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="XtoManuel's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=XtoManuel&show_icons=true&theme=transparent">
+<img alt="XtoManuel's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=XtoManuel&show_icons=true&include_all_commits=true&theme=dark_github">
 </div>
